@@ -1,0 +1,71 @@
+.octo-logo img {
+  width: 30%;
+}
+
+
+blockquote {
+  padding: 0 1em;
+  color: #6a737d;
+  border-left: 0.25em solid #dfe2e5;
+}
+
+blockquote>:first-child {
+  margin-top: 0;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0;
+}
+
+blockquote {
+  margin: 0;
+  margin-bottom: 16px;
+
+}
+
+table {
+  width: 100%;
+  overflow: auto;
+}
+
+table th {
+  font-weight: 600;
+}
+
+table th,
+table td {
+  padding: 6px 13px;
+  border: 1px solid #dfe2e5;
+}
+
+table tr {
+  background-color: #fff;
+  border-top: 1px solid #c6cbd1;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f6f8fa;
+}
+
+table {
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+
+
+.color-red {
+  color: red;
+}
+.strike {
+  text-decoration: line-through;
+}
+
+div.center img {
+  margin: auto;
+}
+
+.legend {
+  display: block;
+  text-align: right;
+  font-size: 0.5em;
+}
